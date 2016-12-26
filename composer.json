@@ -1,5 +1,5 @@
 {
-    "name": "intelipost/api-php",
+    "name": "lucascolette/intelipost-bubb-sdk-php",
     "description": "Intelipost Logistics Gateway Magento Extension",
     "minimum-stability": "dev",
     "keywords": [ "shipping", "api", "intelipost", "logistics", "gateway" ],
